@@ -1,11 +1,11 @@
 
-# Parsing Script – AM103 - Rev. A
+# Parsing + Configuration Script – AM103 - Rev. A
 
-This **Parsing** script is designed for the **AM103** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
+This **Parsing + Configuration** script is designed for the **AM103** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
 
 ## 🧩 Script Type
 
-- **Type**: Parsing
+- **Type**: Parsing + Configuration
 
 ## ⚙️ Description
 
@@ -23,17 +23,18 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 - [Gear Studio Documentation – Data Processing](https://wiki.cloud.studio/es/page/200)
 - [Cloud Studio Official Website](https://www.cloud.studio/)
+- [Cloud Studio Official Repository](https://github.com/CloudStudioIoT)
 - [Cristian M. Zangaro](https://github.com/DarkSylver)
 
 ---
 
-# Script de Parsing – AM103 Rev. A
+# Script de Parsing + Configuration – AM103 Rev. A
 
-Este script de **Parsing** está diseñado para el modelo **AM103** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
+Este script de **Parsing + Configuration** está diseñado para el modelo **AM103** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
 
 ## 🧩 Tipo de Script
 
-- **Tipo**: Parsing
+- **Tipo**: Parsing + Configuration
 
 ## ⚙️ Descripción
 
@@ -51,4 +52,5 @@ Estas funciones permiten capacidades de integración extendidas en Cloud Studio,
 
 - [Documentación de Gear Studio – Procesamiento de Datos](https://wiki.cloud.studio/es/page/200)
 - [Sitio Oficial de Cloud Studio](https://www.cloud.studio/)
+- [Repositorio oficial de Cloud Studio](https://github.com/CloudStudioIoT)
 - [Cristian M. Zangaro](https://github.com/DarkSylver)
