@@ -1,11 +1,11 @@
 
-# Parsing Script – AM103 - Rev. A
+# Parsing + Configuration Script – AM103 - Rev. A
 
-This **Parsing** script is designed for the **AM103** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
+This **Parsing + Configuration** script is designed for the **AM103** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
 
 ## 🧩 Script Type
 
-- **Type**: Parsing
+- **Type**: Parsing + Configuration
 
 ## ⚙️ Description
 
@@ -27,15 +27,17 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 - [Cloud Studio DeviceModel Scripts Repository](https://github.com/CloudStudio-DeviceModels-Scripts)
 - [Cristian M. Zangaro](https://github.com/DarkSylver)
 
+<sub>Note: This script was extracted from a client environment. It may have been designed for specific cases and might not cover all the functionalities of the model. In some cases, the script could be incomplete.</sub>
+
 ---
 
-# Script de Parsing – AM103 Rev. A
+# Script de Parsing + Configuration – AM103 Rev. A
 
-Este script de **Parsing** está diseñado para el modelo **AM103** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
+Este script de **Parsing + Configuration** está diseñado para el modelo **AM103** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
 
 ## 🧩 Tipo de Script
 
-- **Tipo**: Parsing
+- **Tipo**: Parsing + Configuration
 
 ## ⚙️ Descripción
 
@@ -56,3 +58,5 @@ Estas funciones permiten capacidades de integración extendidas en Cloud Studio,
 - [Repositorio oficial de Cloud Studio](https://github.com/CloudStudioIoT)
 - [Repositorio de scripts de modelos de dispositivos de Cloud Studio](https://github.com/CloudStudio-DeviceModels-Scripts)
 - [Cristian M. Zangaro](https://github.com/DarkSylver)
+
+<sub>Nota: Este script fue extraído de un entorno de cliente. Es posible que haya sido diseñado para casos específicos y no para cubrir todas las funcionalidades del modelo. En algunos casos, el script podría estar incompleto.</sub>
